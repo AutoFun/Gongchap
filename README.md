@@ -1,14 +1,24 @@
 # Gongchap
-
+## 
 
 
 ## Tech Stack
-Node.js
-React.js
-Koa.js
-MongoDB
-Typescript
-Material UI
-HTML&CSS&JS
-Sass
-AWS
+Node.js  
+React.js  
+Koa.js  
+MongoDB  
+Typescript  
+Material UI  
+HTML&CSS&JS  
+Sass  
+AWS  
+
+## Design
+
+## Prototype
+
+## MVP
+
+## Demo
+
+## Reference
